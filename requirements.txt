@@ -22,4 +22,3 @@ theme-darcula
 requests
 graphviz
 cufflinks
-ipywidgets
